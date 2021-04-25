@@ -6,6 +6,10 @@ A tiny yet customizable GTK3 LightDM Greeter with focus on code and minimalism.
 
 ![default](https://i.imgur.com/yFMcb4o.png)
 
+## Notes on fork
+
+Nothing yet...
+
 ## Installation
 
 ```bash
